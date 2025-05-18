@@ -10,3 +10,5 @@ This repository contains the solutions to LeetCode problems I've solved, using J
 
 **20. Valid Parentheses** — Easy  
 
+**66. Plus One** — Easy  
+
