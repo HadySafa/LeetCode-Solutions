@@ -12,3 +12,5 @@ This repository contains the solutions to LeetCode problems I've solved, using J
 
 **66. Plus One** — Easy  
 
+**28. Find the Index of the First Occurrence in a String** - Easy
+
