@@ -14,3 +14,5 @@ This repository contains the solutions to LeetCode problems I've solved, using J
 
 **28. Find the Index of the First Occurrence in a String** - Easy
 
+**14. Longest Common Prefix** - Easy
+
