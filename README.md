@@ -16,3 +16,5 @@ This repository contains the solutions to LeetCode problems I've solved, using J
 
 **14. Longest Common Prefix** - Easy
 
+**88. Merge Sorted Array** - Easy
+
