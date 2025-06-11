@@ -18,3 +18,5 @@ This repository contains the solutions to LeetCode problems I've solved, using J
 
 **88. Merge Sorted Array** - Easy
 
+**58. Length of Last Word** - Easy
+
