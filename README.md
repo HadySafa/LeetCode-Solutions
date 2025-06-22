@@ -20,3 +20,5 @@ This repository contains the solutions to LeetCode problems I've solved, using J
 
 **58. Length of Last Word** - Easy
 
+**21. Merge Two Sorted Lists** - Easy
+
