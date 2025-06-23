@@ -22,3 +22,5 @@ This repository contains the solutions to LeetCode problems I've solved, using J
 
 **21. Merge Two Sorted Lists** - Easy
 
+**27. Remove Element** - Easy
+
