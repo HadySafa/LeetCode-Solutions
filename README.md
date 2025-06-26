@@ -24,3 +24,5 @@ This repository contains the solutions to LeetCode problems I've solved, using J
 
 **27. Remove Element** - Easy
 
+**26. Remove Duplicates from Sorted Array** - Easy
+
